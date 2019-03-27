@@ -1,0 +1,9 @@
+c:\users\kássia\documents\visual studio 2015\Projects\BuscaDeCep\BuscaDeCep\bin\Debug\BuscaDeCep.exe.config
+c:\users\kássia\documents\visual studio 2015\Projects\BuscaDeCep\BuscaDeCep\bin\Debug\BuscaDeCep.exe
+c:\users\kássia\documents\visual studio 2015\Projects\BuscaDeCep\BuscaDeCep\bin\Debug\BuscaDeCep.pdb
+c:\users\kássia\documents\visual studio 2015\Projects\BuscaDeCep\BuscaDeCep\obj\Debug\BuscaDeCep.csprojResolveAssemblyReference.cache
+c:\users\kássia\documents\visual studio 2015\Projects\BuscaDeCep\BuscaDeCep\obj\Debug\BuscaDeCep.Form1.resources
+c:\users\kássia\documents\visual studio 2015\Projects\BuscaDeCep\BuscaDeCep\obj\Debug\BuscaDeCep.Properties.Resources.resources
+c:\users\kássia\documents\visual studio 2015\Projects\BuscaDeCep\BuscaDeCep\obj\Debug\BuscaDeCep.csproj.GenerateResource.Cache
+c:\users\kássia\documents\visual studio 2015\Projects\BuscaDeCep\BuscaDeCep\obj\Debug\BuscaDeCep.exe
+c:\users\kássia\documents\visual studio 2015\Projects\BuscaDeCep\BuscaDeCep\obj\Debug\BuscaDeCep.pdb
